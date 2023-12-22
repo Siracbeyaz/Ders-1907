@@ -1,0 +1,49 @@
+body{
+    background-color: blanchedalmond;
+}
+header{
+    background-color: rgba(255, 255, 255, 0.538);
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px 10px;
+}
+
+.isim{
+    color: grey;
+}
+
+
+.ppfoto{
+    display: flex;
+    justify-content: start;
+}
+a{
+    text-decoration: none;
+}
+
+.aherf{
+    display: flex;
+    justify-content: end;
+    margin: 10px;
+    padding: 20px;
+    justify-content: space-between;
+}
+footer{
+    background-color: black;
+}
+.container{
+    display: flex;
+
+}
+.nav{
+    display: flex;
+    padding: 5px;
+}
+.abouth{
+    color: black;
+    text-shadow: 5px 5px 10px blue;
+}
+.web3{
+    font-size: x-large;
+}
